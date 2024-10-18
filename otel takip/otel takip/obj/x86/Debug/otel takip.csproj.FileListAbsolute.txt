@@ -1,0 +1,39 @@
+D:\otel takip\otel takip\bin\Debug\otel takip.exe
+D:\otel takip\otel takip\bin\Debug\otel takip.pdb
+D:\otel takip\otel takip\obj\x86\Debug\otel_takip.Form1.resources
+D:\otel takip\otel takip\obj\x86\Debug\otel_takip.Properties.Resources.resources
+D:\otel takip\otel takip\obj\x86\Debug\otel takip.csproj.GenerateResource.Cache
+D:\otel takip\otel takip\obj\x86\Debug\otel takip.exe
+D:\otel takip\otel takip\obj\x86\Debug\otel takip.pdb
+F:\4.Öğrenme Birimi\otel takip\otel takip\obj\x86\Debug\otel takip.exe
+F:\4.Öğrenme Birimi\otel takip\otel takip\obj\x86\Debug\otel takip.pdb
+F:\4.Öğrenme Birimi\otel takip\otel takip\bin\Debug\otel takip.exe
+F:\4.Öğrenme Birimi\otel takip\otel takip\bin\Debug\otel takip.pdb
+F:\4.Öğrenme Birimi\otel takip\otel takip\obj\x86\Debug\otel_takip.Form1.resources
+F:\4.Öğrenme Birimi\otel takip\otel takip\obj\x86\Debug\otel_takip.Properties.Resources.resources
+F:\4.Öğrenme Birimi\otel takip\otel takip\obj\x86\Debug\otel takip.csproj.GenerateResource.Cache
+F:\mani mani mani\otel takip\otel takip\obj\x86\Debug\otel takip.exe
+F:\mani mani mani\otel takip\otel takip\obj\x86\Debug\otel takip.pdb
+F:\mani mani mani\otel takip\otel takip\bin\Debug\otel takip.exe
+F:\mani mani mani\otel takip\otel takip\bin\Debug\otel takip.pdb
+F:\mani mani mani\otel takip\otel takip\obj\x86\Debug\otel_takip.Form1.resources
+F:\mani mani mani\otel takip\otel takip\obj\x86\Debug\otel_takip.Properties.Resources.resources
+F:\mani mani mani\otel takip\otel takip\obj\x86\Debug\otel takip.csproj.GenerateResource.Cache
+E:\mani mani mani\otel takip\otel takip\obj\x86\Debug\otel takip.exe
+E:\mani mani mani\otel takip\otel takip\obj\x86\Debug\otel takip.pdb
+E:\mani mani mani\otel takip\otel takip\bin\Debug\otel takip.exe
+E:\mani mani mani\otel takip\otel takip\bin\Debug\otel takip.pdb
+E:\mani mani mani\otel takip\otel takip\obj\x86\Debug\otel_takip.Form1.resources
+E:\mani mani mani\otel takip\otel takip\obj\x86\Debug\otel_takip.Properties.Resources.resources
+E:\mani mani mani\otel takip\otel takip\obj\x86\Debug\otel takip.csproj.GenerateResource.Cache
+E:\mani mani mani\otel takip\otel takip\obj\x86\Debug\otel takip.csprojResolveAssemblyReference.cache
+E:\ders için\örnek\C#\otel takip\otel takip\bin\Debug\otel takip.exe.config
+E:\ders için\örnek\C#\otel takip\otel takip\bin\Debug\otel takip.exe
+E:\ders için\örnek\C#\otel takip\otel takip\bin\Debug\otel takip.pdb
+E:\ders için\örnek\C#\otel takip\otel takip\obj\x86\Debug\otel takip.csproj.AssemblyReference.cache
+E:\ders için\örnek\C#\otel takip\otel takip\obj\x86\Debug\otel_takip.Form1.resources
+E:\ders için\örnek\C#\otel takip\otel takip\obj\x86\Debug\otel_takip.Properties.Resources.resources
+E:\ders için\örnek\C#\otel takip\otel takip\obj\x86\Debug\otel takip.csproj.GenerateResource.cache
+E:\ders için\örnek\C#\otel takip\otel takip\obj\x86\Debug\otel takip.csproj.CoreCompileInputs.cache
+E:\ders için\örnek\C#\otel takip\otel takip\obj\x86\Debug\otel takip.exe
+E:\ders için\örnek\C#\otel takip\otel takip\obj\x86\Debug\otel takip.pdb
